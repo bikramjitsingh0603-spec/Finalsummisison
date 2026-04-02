@@ -2,8 +2,9 @@
 ## Process: How White Blood Cells Help the Body Heal a Wound
 
 **Group Name:** Group 6  
-**Course:** ____Technical Writing and Documentaion______________  
-**Instructor:** ___Jibing Liang_______________  
+**Course:** Technical Writing and Documentaion
+
+**Instructor:** Jibing Liang
 **Date:** April 02,2026  
 
 ---
@@ -13,7 +14,7 @@
 | Name | Role | Signature | Date |
 |------|------|-----------|------|
 | Bikramjit Singh| Author |___ | April 2,2026 |
-| Angadveer Singh | Reviewer |___ April 2,2026  |
+| Angadveer Singh | Reviewer |___ |April 2,2026  |
 | Harveer Singh| Editor |___ | April 2,2026 |
 | Armaanjot SIngh | Presenter |___ | April 2,2026 |
 | Instructor | Approver |___ |April 2,2026  |
@@ -56,10 +57,10 @@ This SOP helps readers:
 
 | Task | Responsible Member |
 |------|-------------------|
-| Research | Student Name |
-| Documentation Writing | Student Name |
-| Visual Collection | Student Name |
-| Presentation Delivery | Student Name |
+| Research | Harveer Singh |
+| Documentation Writing | Angadveer Singh |
+| Visual Collection | Harveer Singh |
+| Presentation Delivery | Bikramjit Singh|
 
 ---
 
@@ -84,7 +85,6 @@ When the skin gets cut, small blood vessels under the skin break and bleeding st
 After some time, the clot becomes dry and forms a scab on the surface of the wound. The scab protects the wound while healing begins underneath.
 
 ### Image for Step 1
-_Add your Step 1 image here_
 
 ![Step 1 Image](U15-025_Hemostasis-1.png)
 
@@ -99,7 +99,7 @@ After the bleeding stops, white blood cells travel to the injured area through t
 Sometimes the skin around the wound becomes red or swollen. This is normal because white blood cells are actively working to protect the body and support healing.
 
 ### Image for Step 2
-_Add your Step 2 image here_
+
 
 ![Step 2 Image](cells-process-matter-phagocytosis-food-particle-cell2.png)
 
@@ -114,7 +114,7 @@ After the wound is cleaned by white blood cells, the body begins repairing the d
 As new tissue forms, the wound slowly becomes smaller and stronger each day.
 
 ### Image for Step 3
-_Add your Step 3 image here_
+
 
 ![Step 3 Image](granulation_tissue_3.png)
 
@@ -129,7 +129,6 @@ In the final stage, new skin continues growing until the wound is fully closed. 
 This stage shows that the body has successfully repaired itself and the healing process is complete.
 
 ### Image for Step 4
-_Add your Step 4 image here_
 
 ![Step 4 Image](1.png)
 
